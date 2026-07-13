@@ -8,4 +8,5 @@
 | [0197-rising-temperature](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/Mostafa-alsheikh/leetcode-sql50/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
